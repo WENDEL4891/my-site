@@ -27,6 +27,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+## Lista não ordenada
+- Primeiro item
+- Segundo item
+- Tercero item
+
+## Lista ordenada
+1. Primiro item
+2. Segundo item
+3. Terceiro item
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
